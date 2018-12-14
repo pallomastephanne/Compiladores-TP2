@@ -1,0 +1,6 @@
+int teste1(int num) =
+  if 30 < num then
+    num + 30 
+  else
+    num + 40
+$

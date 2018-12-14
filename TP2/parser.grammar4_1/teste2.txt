@@ -1,0 +1,5 @@
+int teste3(int num) =
+  let x = 1001 in
+    let num = x < 90 in
+       x + num + 2
+$
